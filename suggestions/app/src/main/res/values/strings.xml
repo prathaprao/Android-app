@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">RhymeIt</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="vegetabes">
+        <item>Select Vegetable</item>
+        <item>cotton</item>
+        <item>pulse crops</item>
+        <item>rice</item>
+        <item>small fruits</item>
+        <item>small grains</item>
+        <item>sorghum</item>
+        <item>soyabeans</item>
+        <item>tree fruit</item>
+        <item>tree nuts</item>
+        <item>sweet cron</item>
+        <item>lettuce</item>
+        <item>broccoli</item>
+        <item>Onions</item>
+        <item>peas</item>
+        <item>Tomatoes</item>
+    </string-array>
+</resources>
